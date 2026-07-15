@@ -39,7 +39,7 @@ This project demonstrates the practical implementation of IoT, cloud computing, 
 - ESP32 Development Board
 - DHT22 Temperature & Humidity Sensor
 - SSD1306 OLED Display
-- Relay Module
+- PVM Module (speed comtrol)
 - DC Fan
 - Power Supply (5V)
 
